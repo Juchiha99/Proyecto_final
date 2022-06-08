@@ -43,5 +43,5 @@ Guardar: al elegir esta opción, nos guardara en base de datos todos los registr
 Guardar y salir: esta opción sirve para salir del programa y al mismo tiempo guardar los datos antes de salir para no perderlos.
 
 ### Enlace
-[Video Turorial](https://youtu.be/-t54coyQrwk)
+[Video Turorial](https://youtu.be/BlY0V8V9q3o)
 
